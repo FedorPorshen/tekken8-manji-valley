@@ -1,0 +1,36 @@
+{
+  "version": "v0.1.0",
+  "game_version": "3.02.02",
+  "files": [
+    {
+      "name": "ManjiValleyColosseum_P.pak",
+      "bytes": 347,
+      "sha256": "75E7144577253917F6DA7312EF5E585B12FB728226A22B0938323751A6B555CD"
+    },
+    {
+      "name": "ManjiValleyColosseum_P.ucas",
+      "bytes": 180010176,
+      "sha256": "2C2C896C34C6DA547E5DD0ADD4D127C0CD906DF1AC3CE0AEF0437D095E769E9E"
+    },
+    {
+      "name": "ManjiValleyColosseum_P.utoc",
+      "bytes": 60794,
+      "sha256": "7299E2217F8C0A5F8C6D21CEBE3D9C737A0EA07173E812E2F0975934B8632350"
+    },
+    {
+      "name": "ManjiValleySnowFloor_P.pak",
+      "bytes": 347,
+      "sha256": "75E7144577253917F6DA7312EF5E585B12FB728226A22B0938323751A6B555CD"
+    },
+    {
+      "name": "ManjiValleySnowFloor_P.ucas",
+      "bytes": 8391847,
+      "sha256": "1504DA8E3392519A7437164304CD7F1096CB9CE2F8223AC1A24CB97FB553088B"
+    },
+    {
+      "name": "ManjiValleySnowFloor_P.utoc",
+      "bytes": 2574,
+      "sha256": "BE6547656DDF6ECEF18CDF587C0917AB7724DF527FDD70A849FE934A1FD570F7"
+    }
+  ]
+}
