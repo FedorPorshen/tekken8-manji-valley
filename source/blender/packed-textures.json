@@ -1,0 +1,962 @@
+[
+  {
+    "name": "100201EE.dds",
+    "width": 256,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10020CA5.dds",
+    "width": 512,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "1002183A.dds",
+    "width": 512,
+    "height": 512,
+    "packed": true
+  },
+  {
+    "name": "1002183B.dds",
+    "width": 512,
+    "height": 512,
+    "packed": true
+  },
+  {
+    "name": "1002186C",
+    "width": 512,
+    "height": 512,
+    "packed": true
+  },
+  {
+    "name": "100218E7.dds",
+    "width": 1024,
+    "height": 1024,
+    "packed": true
+  },
+  {
+    "name": "100218EE.dds",
+    "width": 16,
+    "height": 16,
+    "packed": true
+  },
+  {
+    "name": "1002192C.dds",
+    "width": 256,
+    "height": 32,
+    "packed": true
+  },
+  {
+    "name": "1002193E.dds",
+    "width": 512,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "1002194F.dds",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "10021974.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10021976.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10021999.dds",
+    "width": 384,
+    "height": 640,
+    "packed": true
+  },
+  {
+    "name": "100219AB.dds",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "100219B3.dds",
+    "width": 1024,
+    "height": 1024,
+    "packed": true
+  },
+  {
+    "name": "100219C1.dds",
+    "width": 512,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "100219D1.dds",
+    "width": 512,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "100219FB.dds",
+    "width": 512,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "10022F90.dds",
+    "width": 1024,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10024584.dds",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "100245B1.dds",
+    "width": 128,
+    "height": 32,
+    "packed": true
+  },
+  {
+    "name": "100245B3.dds",
+    "width": 64,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "1002467A.dds",
+    "width": 384,
+    "height": 640,
+    "packed": true
+  },
+  {
+    "name": "10024699.dds",
+    "width": 512,
+    "height": 512,
+    "packed": true
+  },
+  {
+    "name": "10024A1A.dds",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "10024DBA.dds",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "10024DBD.dds",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "10024DBE.dds",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "10024DBF.dds",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "10024DC2.dds",
+    "width": 32,
+    "height": 32,
+    "packed": true
+  },
+  {
+    "name": "10024DC3.dds",
+    "width": 32,
+    "height": 32,
+    "packed": true
+  },
+  {
+    "name": "10024DC4.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10024DC5.dds",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "10024DC6.dds",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "10024DC7.dds",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "10024DC8.dds",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "10024DC9.dds",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "10024DEE",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10024DF1",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "10024DF2",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "10024DF9.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10024DFA.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10024DFD.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10024E00.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10024E25.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10024E29.dds",
+    "width": 16,
+    "height": 16,
+    "packed": true
+  },
+  {
+    "name": "10024E31",
+    "width": 16,
+    "height": 16,
+    "packed": true
+  },
+  {
+    "name": "10024E51.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10024E52.dds",
+    "width": 512,
+    "height": 512,
+    "packed": true
+  },
+  {
+    "name": "10024E53.dds",
+    "width": 768,
+    "height": 320,
+    "packed": true
+  },
+  {
+    "name": "10024E56.dds",
+    "width": 512,
+    "height": 512,
+    "packed": true
+  },
+  {
+    "name": "10024E5A.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10024E5B.dds",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "10024E65.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10024E66.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10024E68.dds",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "10024E69.dds",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "10024FA4",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "10024FBC.dds",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "10024FBD.dds",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "10024FD0.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10024FD6.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10025004.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10025007.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10025008.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10025009.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "1002500A",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "1002500B",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "1002500C",
+    "width": 32,
+    "height": 32,
+    "packed": true
+  },
+  {
+    "name": "10025014.dds",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "1002501C.dds",
+    "width": 512,
+    "height": 512,
+    "packed": true
+  },
+  {
+    "name": "10025076",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "10025077",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "100250D3.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "1002514B.dds",
+    "width": 8,
+    "height": 8,
+    "packed": true
+  },
+  {
+    "name": "100251C8.dds",
+    "width": 32,
+    "height": 32,
+    "packed": true
+  },
+  {
+    "name": "100251C9.dds",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "100251CA.dds",
+    "width": 32,
+    "height": 32,
+    "packed": true
+  },
+  {
+    "name": "1002521E.dds",
+    "width": 512,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "10025260.dds",
+    "width": 256,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10025261.dds",
+    "width": 256,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "10025264.dds",
+    "width": 256,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "1002528E.dds",
+    "width": 512,
+    "height": 512,
+    "packed": true
+  },
+  {
+    "name": "100252A2.dds",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "100252AA.dds",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "10025528.dds",
+    "width": 512,
+    "height": 512,
+    "packed": true
+  },
+  {
+    "name": "100256F4",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "100256F5.dds",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_100201EE.png",
+    "width": 256,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10020CA5.png",
+    "width": 512,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "T6_1002183A.png",
+    "width": 512,
+    "height": 512,
+    "packed": true
+  },
+  {
+    "name": "T6_1002186C.png",
+    "width": 512,
+    "height": 512,
+    "packed": true
+  },
+  {
+    "name": "T6_100218EE.png",
+    "width": 16,
+    "height": 16,
+    "packed": true
+  },
+  {
+    "name": "T6_1002192C.png",
+    "width": 256,
+    "height": 32,
+    "packed": true
+  },
+  {
+    "name": "T6_1002193E.png",
+    "width": 512,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "T6_1002194F.png",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "T6_10021974.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10021999.png",
+    "width": 384,
+    "height": 640,
+    "packed": true
+  },
+  {
+    "name": "T6_100219B3.png",
+    "width": 1024,
+    "height": 1024,
+    "packed": true
+  },
+  {
+    "name": "T6_100219FB.png",
+    "width": 512,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "T6_10022F90.png",
+    "width": 1024,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10024584.png",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "T6_100245B1.png",
+    "width": 128,
+    "height": 32,
+    "packed": true
+  },
+  {
+    "name": "T6_100245B3.png",
+    "width": 64,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "T6_1002467A.png",
+    "width": 384,
+    "height": 640,
+    "packed": true
+  },
+  {
+    "name": "T6_10024A1A.png",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "T6_10024DBA.png",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "T6_10024DBD.png",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "T6_10024DBE.png",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "T6_10024DBF.png",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "T6_10024DC2.png",
+    "width": 32,
+    "height": 32,
+    "packed": true
+  },
+  {
+    "name": "T6_10024DC3.png",
+    "width": 32,
+    "height": 32,
+    "packed": true
+  },
+  {
+    "name": "T6_10024DC4.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10024DC5.png",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "T6_10024DC6.png",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "T6_10024DC7.png",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "T6_10024DC8.png",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "T6_10024DC9.png",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "T6_10024DEE.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10024DF1.png",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "T6_10024DF2.png",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "T6_10024DF9.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10024DFA.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10024DFD.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10024E00.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10024E25.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10024E51.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10024E53.png",
+    "width": 768,
+    "height": 320,
+    "packed": true
+  },
+  {
+    "name": "T6_10024E56.png",
+    "width": 512,
+    "height": 512,
+    "packed": true
+  },
+  {
+    "name": "T6_10024E5A.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10024E5B.png",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "T6_10024E65.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10024E66.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10024FA4.png",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "T6_10024FBC.png",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "T6_10024FBD.png",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "T6_10024FD0.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10024FD6.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10025004.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10025007.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10025008.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10025009.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_1002500A.png",
+    "width": 256,
+    "height": 256,
+    "packed": true
+  },
+  {
+    "name": "T6_1002500B.png",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "T6_1002500C.png",
+    "width": 32,
+    "height": 32,
+    "packed": true
+  },
+  {
+    "name": "T6_10025014.png",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "T6_1002501C.png",
+    "width": 512,
+    "height": 512,
+    "packed": true
+  },
+  {
+    "name": "T6_10025076.png",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "T6_10025077.png",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "T6_100250D3.png",
+    "width": 128,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_100251C8.png",
+    "width": 32,
+    "height": 32,
+    "packed": true
+  },
+  {
+    "name": "T6_100251C9.png",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "T6_100251CA.png",
+    "width": 32,
+    "height": 32,
+    "packed": true
+  },
+  {
+    "name": "T6_10025260.png",
+    "width": 256,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10025261.png",
+    "width": 256,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_10025264.png",
+    "width": 256,
+    "height": 128,
+    "packed": true
+  },
+  {
+    "name": "T6_100252A2.png",
+    "width": 64,
+    "height": 64,
+    "packed": true
+  },
+  {
+    "name": "T6_10025528.png",
+    "width": 512,
+    "height": 512,
+    "packed": true
+  },
+  {
+    "name": "T6HD_100218E7_v2.png",
+    "width": 2048,
+    "height": 2048,
+    "packed": true
+  },
+  {
+    "name": "T6HD_10021976_v2.png",
+    "width": 2048,
+    "height": 2048,
+    "packed": true
+  }
+]

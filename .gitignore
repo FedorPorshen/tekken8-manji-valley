@@ -2,3 +2,5 @@ Thumbs.db
 .DS_Store
 *.log
 *.pending
+*.blend1
+__pycache__/
