@@ -2,3 +2,4 @@
 ced6d3b5e8a28da8e975349622bc81b72ca3ac060f9d786cf98bc4848dbe385c  Manji-Valley-Native-Colosseum-v0.2.0-preview.1.zip
 61428ad34ca756daa491acfd46f574950c5fdc5921dd4e33e38e5d419ac1fd9c  Manji-Valley-Snow-Runtime-v0.2.0-preview.1.zip
 cf68ecf9289a8b0cc32e4aa6eef97e9f03751476b0de72101946ea1e67708dbd  Manji-Valley-UI-v0.2.0-preview.1.zip
+5eefa66263ee2b03833fbac60b2e67f9c023e92c28f478c2129dc53dd967972f  Manji-Valley.zip

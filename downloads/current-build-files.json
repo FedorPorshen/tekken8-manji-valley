@@ -1,110 +1,69 @@
 {
-  "version": "v0.2.0-preview.1",
+  "name": "Manji Valley",
   "game_version": "3.02.02",
-  "stage_installed_at": "2026-11-10T22:42:09.6975941+03:00",
-  "ui_installed_at": "2026-11-10T22:42:11.1467080+03:00",
-  "files_match_installed_copy": true,
-  "game_verification_by": "user",
-  "latest_revision_game_test_confirmed": false,
-  "snow_interaction_game_verified": false,
+  "archive": "Manji-Valley.zip",
+  "files_match_build": true,
+  "boundary_game_verified": false,
   "files": [
     {
       "path": "Polaris/Content/Paks/Mods/ManjiValleyColosseum_P.pak",
-      "archive": "Manji-Valley-Native-Colosseum-v0.2.0-preview.1.zip",
-      "member": "ManjiValleyColosseum_P.pak",
       "bytes": 347,
       "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
     },
     {
       "path": "Polaris/Content/Paks/Mods/ManjiValleyColosseum_P.ucas",
-      "archive": "Manji-Valley-Native-Colosseum-v0.2.0-preview.1.zip",
-      "member": "ManjiValleyColosseum_P.ucas",
-      "bytes": 222532471,
-      "sha256": "d09ea5ce8254e0d11a319e65f0da885d225fbc4ba08f9c0a82c51796e942dd8e"
+      "bytes": 174523901,
+      "sha256": "3cbee9898265e1860af37848b31c668a8b2e10c55403e9adbcf296ceea743cc9"
     },
     {
       "path": "Polaris/Content/Paks/Mods/ManjiValleyColosseum_P.utoc",
-      "archive": "Manji-Valley-Native-Colosseum-v0.2.0-preview.1.zip",
-      "member": "ManjiValleyColosseum_P.utoc",
-      "bytes": 69261,
-      "sha256": "d8b096e344cdf52b97b9cf7ba6e90bb0dd5da3fa1ed3d7d42fcb51d4276d909b"
+      "bytes": 54721,
+      "sha256": "ab67773ca0570ef91f662db9490dfef59d58eb3d64b88ad7b6ebe0f0c5080803"
     },
     {
       "path": "Polaris/Content/Paks/Mods/ManjiValleySnowFloor_P.pak",
-      "archive": "Manji-Valley-Native-Colosseum-v0.2.0-preview.1.zip",
-      "member": "ManjiValleySnowFloor_P.pak",
       "bytes": 347,
       "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
     },
     {
       "path": "Polaris/Content/Paks/Mods/ManjiValleySnowFloor_P.ucas",
-      "archive": "Manji-Valley-Native-Colosseum-v0.2.0-preview.1.zip",
-      "member": "ManjiValleySnowFloor_P.ucas",
       "bytes": 8391847,
       "sha256": "1504da8e3392519a7437164304cd7f1096cb9ce2f8223ac1a24cb97fb553088b"
     },
     {
       "path": "Polaris/Content/Paks/Mods/ManjiValleySnowFloor_P.utoc",
-      "archive": "Manji-Valley-Native-Colosseum-v0.2.0-preview.1.zip",
-      "member": "ManjiValleySnowFloor_P.utoc",
       "bytes": 2574,
       "sha256": "be6547656ddf6ecef18cdf587c0917ab7724df527fdd70a849fe934a1fd570f7"
     },
     {
       "path": "Polaris/Content/Paks/Mods/ManjiValleyUI_P.pak",
-      "archive": "Manji-Valley-UI-v0.2.0-preview.1.zip",
-      "member": "Polaris/Content/Paks/Mods/ManjiValleyUI_P.pak",
       "bytes": 347,
       "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
     },
     {
       "path": "Polaris/Content/Paks/Mods/ManjiValleyUI_P.ucas",
-      "archive": "Manji-Valley-UI-v0.2.0-preview.1.zip",
-      "member": "Polaris/Content/Paks/Mods/ManjiValleyUI_P.ucas",
       "bytes": 8159801,
-      "sha256": "3ae39a39ac923822522714b4fafc06128b0da057082fecf0d15d6189a825f541"
+      "sha256": "9fa95b9e66cee3285b42f335a4bfbc5a770f7fcbdb224831e1fb406310b42c2f"
     },
     {
       "path": "Polaris/Content/Paks/Mods/ManjiValleyUI_P.utoc",
-      "archive": "Manji-Valley-UI-v0.2.0-preview.1.zip",
-      "member": "Polaris/Content/Paks/Mods/ManjiValleyUI_P.utoc",
       "bytes": 2745,
-      "sha256": "f14aaf56550b683fdc20c17579617171f379f266f4f0cf5c06c564c0448bdb02"
+      "sha256": "7f4f104f9c5e1a17276870012e17c4be75a2b42934283cd17ab3c110b963a83f"
     },
     {
       "path": "Polaris/Content/Movies/usm/StageSelect/Mov_UI_SS_Stage_04_Colosseum.usm",
-      "archive": "Manji-Valley-UI-v0.2.0-preview.1.zip",
-      "member": "Polaris/Content/Movies/usm/StageSelect/Mov_UI_SS_Stage_04_Colosseum.usm",
-      "bytes": 11670784,
-      "sha256": "c8903c0f3a657d6411a9ec33150d916555d97fe870bce9f628696924a9542397"
+      "bytes": 10278976,
+      "sha256": "08388df951d6bcdbe104d25a14f5cf4002e47962a81dee083f2dce7e0c619610"
     },
     {
       "path": "Polaris/Content/Movies/usm/StageSelect/Mov_UI_SS_Stage_Decide_04_Colosseum.usm",
-      "archive": "Manji-Valley-UI-v0.2.0-preview.1.zip",
-      "member": "Polaris/Content/Movies/usm/StageSelect/Mov_UI_SS_Stage_Decide_04_Colosseum.usm",
-      "bytes": 826880,
-      "sha256": "49c58f91babd9d081a351844384e6f2334296e50f0e423b0e16bcbfeff3d4781"
+      "bytes": 774368,
+      "sha256": "6f2aeeff84d59bd920c94b696083faf2932272334ca6a8b6d3e594887eeb9c0f"
     },
     {
       "path": "Polaris/Binaries/Win64/Mods/ManjiValleySnow/Scripts/main.lua",
-      "archive": "Manji-Valley-Snow-Runtime-v0.2.0-preview.1.zip",
-      "member": "Mods/ManjiValleySnow/Scripts/main.lua",
-      "bytes": 9813,
-      "sha256": "e83ea35b8ca7d094a701044f8febb935eb862c3ed6c607a8f2024ca2523c7765"
-    },
-    {
-      "path": "Polaris/Binaries/Win64/Mods/ManjiValleySnow/Scripts/render_bridge.lua",
-      "archive": "Manji-Valley-Snow-Runtime-v0.2.0-preview.1.zip",
-      "member": "Mods/ManjiValleySnow/Scripts/render_bridge.lua",
-      "bytes": 1540,
-      "sha256": "c47eaf16f12829abfd2e516210b8979f98c2402c3c48368e0b22f1b3a0b99ab4"
-    },
-    {
-      "path": "Polaris/Binaries/Win64/Mods/ManjiValleySnow/Scripts/snow_state.lua",
-      "archive": "Manji-Valley-Snow-Runtime-v0.2.0-preview.1.zip",
-      "member": "Mods/ManjiValleySnow/Scripts/snow_state.lua",
-      "bytes": 1422,
-      "sha256": "21d92b5833ab15da91ed1a3444527f9826a1e371a221bbf3d3090af34fad5ee7"
+      "bytes": 3166,
+      "sha256": "264e349f6c61119b3db22f18cc4bbf21c920a52a86ec39dc57c0b2290623820e"
     }
   ]
 }
