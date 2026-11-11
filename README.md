@@ -39,19 +39,19 @@ Mov_UI_SS_Stage_Decide_04_Colosseum.usm
 
 Для подсветки нужен отдельно установленный совместимый UE4SS. Скопируйте папку `ManjiValleySnow` из архива в `Polaris/Binaries/Win64/Mods`. В существующем `mods.txt` добавьте или включите строку `ManjiValleySnow : 1`. Видимость обновлённой границы в бою ещё предстоит проверить.
 
-## Рендеры и материалы
+## Рендеры карты
 
 Рендеры сделаны в Blender. Освещение, снегопад и огонь в игре могут выглядеть иначе.
 
-![Ворота и подвесной мост](docs/renders/manji-valley-preview.png)
+![Превью Manji Valley](docs/renders/manji-valley-preview.png)
 
-![Святилище](docs/renders/shrine-side.png)
-
-| Камень | Дерево |
+| Замёрзшее озеро и ледяные колонны | Ворота и мост с арены |
 | --- | --- |
-| ![Текстура камня](docs/textures/rock-restored.png) | ![Текстура дерева](docs/textures/wood-restored.png) |
-
-[Сцена Blender](source/blender/Manji-Valley-current.blend) · [Дополнительные рендеры](docs/DEVELOPMENT.md)
+| ![Озеро и ледяные колонны](docs/renders/valley-and-shrine.png) | ![Вид на ворота и мост со льда](docs/renders/torii-and-bridge.png) |
+| **Святилище с жаровнями** | **Подвесной мост крупным планом** |
+| ![Святилище с жаровнями](docs/renders/shrine-preview.png) | ![Настил и тросы моста](docs/renders/gate-rope-full.png) |
+| **Ледяная колонна у святилища** | **Ряд ворот тории на скале** |
+| ![Основание ледяной колонны](docs/renders/ice-base-grounded.png) | ![Ряд ворот тории](docs/renders/torii-spacing.png) |
 
 ## Удаление и откат
 
@@ -68,3 +68,4 @@ Mov_UI_SS_Stage_Decide_04_Colosseum.usm
 В работе использовались Blender, Unreal Engine 5.2, FModel, retoc, repak и UE4SS.
 
 **English:** Manji Valley from TEKKEN 6 replaces Coliseum of Fate in the Steam version of TEKKEN 8. The archive contains the stage, menu previews and an optional boundary highlight script for UE4SS. Back up the two stage-select movies before replacing them. All images above are Blender renders.
+
